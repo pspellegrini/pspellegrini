@@ -8,12 +8,6 @@
 <p>
 
 ---
-### 📊GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pspellegrini&count_private=true&show_icons=true&theme=dracula&hide_border=true)](https://github.com/pspellegrini/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=pspellegrini&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-![GitHub Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pspellegrini&layout=compact&theme=dracula&hide_border=true)
-
-
 ### 🗺️ Road Map
 **`To-Learn`**
 
@@ -48,4 +42,12 @@
 ![Git](https://img.shields.io/badge/Git-informational?style=flat-square&logo=Git&logoColor=white&color=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-informational?style=flat-square&logo=GitHub&logoColor=white&color=181717)
 ![Trello](https://img.shields.io/badge/Trello-informational?style=flat-square&logo=Trello&logoColor=white&color=0052CC)
-<p>
+
+<BR>
+
+### 📊GitHub Stats
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pspellegrini&count_private=true&show_icons=true&theme=dracula&hide_border=true)](https://github.com/pspellegrini/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=pspellegrini&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+![GitHub Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pspellegrini&layout=compact&theme=dracula&hide_border=true)
+
+
