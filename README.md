@@ -3,25 +3,17 @@
 
 **`Entusiasta por novas ideias e os novos projetos`**
 
-<br>
-
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-Profile?style=flat-square&logo=Linkedin&logoColor=white&color=0A66C2)](https://www.linkedin.com/in/pspellegrini)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile?style=flat-square&logo=twitter&logoColor=white&color=1DA1F2)](https://twitter.com/pspellegrini)
 <p>
 
 ---
-
 ### 📊GitHub Stats
-<p>
-
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pspellegrini&count_private=true&show_icons=true&theme=dracula&hide_border=true)](https://github.com/pspellegrini/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=pspellegrini&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 ![GitHub Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pspellegrini&layout=compact&theme=dracula&hide_border=true)
 
 
 ### 🗺️ Road Map
-<p>
-
 ### To-Learn
 ![Programming_Languages](https://img.shields.io/badge/Programming_Languages-Code?style=flat-square&color=86888A)
 ![Python](https://img.shields.io/badge/Python-informational?style=flat-square&logo=Python&logoColor=white&color=3776AB)
