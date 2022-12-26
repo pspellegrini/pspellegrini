@@ -1,37 +1,66 @@
 ![Paulo's GitHub Banner](./image/praia-forte.png)
+# 🏡👋 P. Pellegrini
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat-square&logo=twitter&logoColor=white&color=1dcaff)](https://twitter.com/pspellegrini)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat-square&logo=linkedin&logoColor=white&color=0077B5)](https://www.linkedin.com/in/pspellegrini/)
+**`Entusiasta por novas ideias e os novos projetos`**
+
+<br>
+
+[![Linkedin Badge](https://img.shields.io/badge/Linkedin-Profile?style=flat-square&logo=Linkedin&logoColor=white&color=0A66C2)](https://www.linkedin.com/in/pspellegrini)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile?style=flat-square&logo=twitter&logoColor=white&color=1DA1F2)](https://twitter.com/pspellegrini)
+<p>
+
+---
+
+### 📊GitHub Stats
+<p>
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pspellegrini&count_private=true&show_icons=true&theme=dracula&hide_border=true)](https://github.com/pspellegrini/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=pspellegrini&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+![GitHub Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pspellegrini&layout=compact&theme=dracula&hide_border=true)
 
 
-## 📖About Me
+### 🗺️ Road Map
 
+<br>
 
-## 🎯Goals
+### To-Learn
+![Programming_Languages](https://img.shields.io/badge/Programming_Languages-Code?style=flat-square&color=86888A)
+![Python](https://img.shields.io/badge/Python-informational?style=flat-square&logo=Python&logoColor=white&color=3776AB)
+![RStudio](https://img.shields.io/badge/RStudio-informational?style=flat-square&logo=RStudio&logoColor=white&color=75AADB)
+<p>
 
-![MySQL](https://camo.githubusercontent.com/629dd35dc1f85bb51ea8196c7e29924b36e314ab5bbe36883464b3e91ef23f7f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f64652d4d7953514c2d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d4d7953514c266c6f676f436f6c6f723d776869746526636f6c6f723d344142313937) ![MongoDB](https://camo.githubusercontent.com/91ee6f4de482efa52f72b7052aeebb2f1a558a66d5e325272a504cdd2d39bc5c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f64652d4d6f6e676f44422d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d4d6f6e676f4442266c6f676f436f6c6f723d776869746526636f6c6f723d344142313937)
+![Database](https://img.shields.io/badge/Database-Code?style=flat-square&color=86888A)
+![MongoDB](https://img.shields.io/badge/MongoDB-informational?style=flat-square&logo=MongoDB&logoColor=white&color=47A248)
+<p>
 
-## 📌Pinned Repositories
+![AI/ML](https://img.shields.io/badge/AI/ML-Code?style=flat-square&color=86888A)
+![pandas](https://img.shields.io/badge/pandas-informational?style=flat-square&logo=pandas&logoColor=white&color=150458)
+<p>
 
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-Code?style=flat-square&color=86888A)
+![Tableau](https://img.shields.io/badge/Tableau-informational?style=flat-square&logo=Tableau&logoColor=white&color=E97627)
+![Microsoft Power BI](https://img.shields.io/badge/Power_BI-informational?style=flat-square&logo=PowerBI&logoColor=white&color=F2C811)
+<p>
 
-## 📊GitHub Stats
+![Framework](https://img.shields.io/badge/Framework-Code?style=flat-square&color=86888A)
+![Django](https://img.shields.io/badge/Django-informational?style=flat-square&logo=Django&logoColor=white&color=2496ED)
+<p>
 
+### Learning
+<p>
 
-## 💼Skills
+![Database](https://img.shields.io/badge/Database-Code?style=flat-square&color=86888A)
+![MSSQL](https://img.shields.io/badge/MSSQL-informational?style=flat-square&logo=Microsoft-SQL-Server&logoColor=white&color=CC2927)
+![MySQL](https://img.shields.io/badge/MySQL-informational?style=flat-square&logo=MySQL&logoColor=white&color=4479A1)
+<p>
 
-![MySQL](https://camo.githubusercontent.com/629dd35dc1f85bb51ea8196c7e29924b36e314ab5bbe36883464b3e91ef23f7f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f64652d4d7953514c2d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d4d7953514c266c6f676f436f6c6f723d776869746526636f6c6f723d344142313937) ![MongoDB](https://camo.githubusercontent.com/91ee6f4de482efa52f72b7052aeebb2f1a558a66d5e325272a504cdd2d39bc5c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f64652d4d6f6e676f44422d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d4d6f6e676f4442266c6f676f436f6c6f723d776869746526636f6c6f723d344142313937)
+![Tools](https://img.shields.io/badge/Tools-Code?style=flat-square&color=86888A)
+![VSCode](https://img.shields.io/badge/VS_Code-informational?style=flat-square&logo=VisualStudioCode&logoColor=white&color=007ACC)
+<p>
 
-<!--
-**pspellegrini/pspellegrini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Done
+![Tools](https://img.shields.io/badge/Tools-Code?style=flat-square&color=86888A)
+![Git](https://img.shields.io/badge/Git-informational?style=flat-square&logo=Git&logoColor=white&color=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-informational?style=flat-square&logo=GitHub&logoColor=white&color=181717)
+![Trello](https://img.shields.io/badge/Trello-informational?style=flat-square&logo=Trello&logoColor=white&color=0052CC)
+<p>
