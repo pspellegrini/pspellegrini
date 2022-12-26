@@ -1,7 +1,7 @@
 ![Paulo's GitHub Banner](./image/praia-forte.png)
 # 🏡👋 P. Pellegrini
 
-**`Entusiasta por novas ideias e os novos projetos`**
+**`Entusiasta por novas ideias e novos projetos`**
 
 ![Social](https://img.shields.io/badge/Social-Social?style=flat-square&color=86888A)
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-Profile?style=flat-square&logo=Linkedin&logoColor=white&color=0A66C2)](https://www.linkedin.com/in/pspellegrini)
@@ -9,7 +9,7 @@
 <p>
 
 ---
-### 🗺️ Road Map
+### 🗺️ Learning Roadmap
 **`To-Learn`**
 
 ![Programming_Languages](https://img.shields.io/badge/Programming_Languages-Code?style=flat-square&color=86888A)
