@@ -38,7 +38,7 @@
 <p>
 
 ![Database](https://img.shields.io/badge/Database-DB?style=flat-square&color=86888A)
-![MSSQL](https://img.shields.io/badge/MSSQL-DBstyle=flat-square&logo=Microsoft-SQL-Server&logoColor=white&color=CC2927)
+![MSSQL](https://img.shields.io/badge/MSSQL-DB?style=flat-square&logo=Microsoft-SQL-Server&logoColor=white&color=CC2927)
 ![MySQL](https://img.shields.io/badge/MySQL-DB?style=flat-square&logo=MySQL&logoColor=white&color=4479A1)
 <p>
 
