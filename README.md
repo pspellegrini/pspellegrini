@@ -62,5 +62,3 @@
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pspellegrini&count_private=true&show_icons=true&theme=dracula&hide_border=true)](https://github.com/pspellegrini/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=pspellegrini&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 ![GitHub Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pspellegrini&layout=compact&theme=dracula&hide_border=true)
-
-
