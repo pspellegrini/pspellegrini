@@ -13,7 +13,6 @@
 **`To-Learn`**
 
 ![Programming_Languages](https://img.shields.io/badge/Programming_Languages-Code?style=flat-square&color=86888A)
-![Python](https://img.shields.io/badge/Python-informational?style=flat-square&logo=Python&logoColor=white&color=3776AB)
 ![RStudio](https://img.shields.io/badge/RStudio-informational?style=flat-square&logo=RStudio&logoColor=white&color=75AADB)
 <p>
 
@@ -36,6 +35,9 @@
 
 **`Learning`**
 <p>
+
+![Programming_Languages](https://img.shields.io/badge/Programming_Languages-Code?style=flat-square&color=86888A)
+![Python](https://img.shields.io/badge/Python-informational?style=flat-square&logo=Python&logoColor=white&color=3776AB)
 
 ![Database](https://img.shields.io/badge/Database-DB?style=flat-square&color=86888A)
 ![MSSQL](https://img.shields.io/badge/MSSQL-DB?style=flat-square&logo=Microsoft-SQL-Server&logoColor=white&color=CC2927)
